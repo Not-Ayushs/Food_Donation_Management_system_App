@@ -2,9 +2,9 @@
 
 # 🍲 Food Donation Management System
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Java](https://img.shields.io/badge/Java-Spring%20Boot-green)
-![React](https://img.shields.io/badge/React-Frontend-blue)
+![Java](https://img.shields.io/badge/Java-Swing-orange)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+
 
 
 ## 📖 Description
