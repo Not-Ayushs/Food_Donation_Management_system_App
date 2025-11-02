@@ -1,5 +1,3 @@
-# Food_Donation_Management_system_App
-
 # 🍲 Food Donation Management System
 
 ![Java](https://img.shields.io/badge/Java-Swing-orange)
