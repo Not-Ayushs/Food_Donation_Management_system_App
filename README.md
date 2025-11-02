@@ -87,32 +87,45 @@ java -cp .:mysql-connector-java-8.0.30.jar src.Main
 ## 📁 Project Structure
 
 food-donation-system/
+│
 ├── src/
-│ ├── com/
-│ │ └── ayushcode/
-│ │ └── food_donation/
-│ │ ├── Main.java
-│ │ ├── config/
-│ │ │ └── DatabaseConfig.java
-│ │ ├── dao/
-│ │ │ ├── FoodItemDAO.java
-│ │ │ ├── DonorDAO.java
-│ │ │ └── ReceiverDAO.java
-│ │ ├── model/
-│ │ │ ├── FoodItem.java
-│ │ │ ├── Donor.java
-│ │ │ └── Receiver.java
-│ │ └── ui/
-│ │ ├── DashboardFrame.java
-│ │ ├── FoodItemFrame.java
-│ │ ├── DonorFrame.java
-│ │ └── ReceiverFrame.java
+│   └── com/
+│       └── ayushcode/
+│           └── food_donation/
+│               ├── Main.java
+│               │
+│               ├── config/
+│               │   └── DatabaseConfig.java
+│               │
+│               ├── dao/
+│               │   ├── FoodItemDAO.java
+│               │   ├── DonorDAO.java
+│               │   └── ReceiverDAO.java
+│               │
+│               ├── model/
+│               │   ├── FoodItem.java
+│               │   ├── Donor.java
+│               │   └── Receiver.java
+│               │
+│               └── ui/
+│                   ├── DashboardFrame.java
+│                   ├── FoodItemFrame.java
+│                   ├── DonorFrame.java
+│                   └── ReceiverFrame.java
+│
 ├── database/
-│ ├── schema.sql
-│ └── sample_data.sql
+│   ├── schema.sql
+│   └── sample_data.sql
+│
 ├── lib/
-│ └── mysql-connector-java-8.0.30.jar
+│   └── mysql-connector-java-8.0.30.jar
+│
 ├── screenshots/
+│   ├── dashboard.png
+│   ├── food-items.png
+│   ├── add-food-form.png
+│   └── database-view.png
+│
 └── README.md
 
 
